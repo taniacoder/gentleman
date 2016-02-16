@@ -1,0 +1,116 @@
+header{
+	position: fixed;
+		z-index: 99;
+}
+nav {
+	padding-top: 2%;
+	font-size: 15.3px;
+}
+.row {
+  margin-left: 0;
+  margin-right: 0; 
+}
+header{
+  width: 100%;
+}
+.menu_bar{
+padding: 1.5em 2em 0em 1.5em;
+}
+nav ul li a{
+  text-decoration: none;
+  list-style-type: none;
+  color: black;
+  padding: 10px 14px !important;
+}
+
+nav ul li{
+
+  display: inline-block;
+
+}
+li:first-child{
+  border-left: none;
+}
+.navbar{
+  min-height: 80px;
+  background-color: #333;
+  border: none;
+  
+}
+.navbar-default .navbar-brand {
+	color: #fff;
+	font-size: 20px;
+}
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+}
+.navbar-default .navbar-nav>li>a:hover {
+	color: #FE005A;
+}
+.navbar-default .navbar-brand:hover {
+	color: #fff;
+}
+ /*BODY*/
+ body {
+  background-color: #EBEAEA;
+
+ }
+ .min {
+  box-shadow: 0px 0px 2px 4px rgba(0,0,0,0.1);
+ }
+
+ .secc-1 {
+  padding-top: 12%;
+  padding-bottom: 3%;
+ }
+ .secc-1 img {
+    width: 99%;
+ }
+ .secc-1 h2 {
+  margin-top: 0;
+ }
+
+ /*latest*/
+ .latest img {
+    width: 100%;
+ }
+ .box {
+  padding-top: 2%;
+  padding-bottom: 2%;
+ }
+ .cappu {
+  font-size: 1em;
+  margin-top: 3%;
+ }
+ .cappu i {
+    font-size: 0.8em;
+    color: #ccc;
+    margin-left: 5%; 
+ }
+  .butoon {
+  background:#8D8D8D;
+  color:#fff;
+  display:inline-block;
+  font-size:1em;
+  padding: 1% 4%;
+  text-align:center;
+  text-decoration: none !important;
+  margin: 20px 2px;
+  border-radius: 20px;
+}
+ /*footer*/
+ .footer {
+  padding-top: 4%;
+  background-color: #333;
+  color: #fff;
+ }
+ .footer .circle {
+  border-radius: 50px dashed #fff ;
+ }
+  .footer i {
+  color: #fff;
+  font-size: 1.5em;
+  }
+ .footer ul {
+  list-style: none;
+ }
